@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Franky</h1>
 <h3 align="center">An SRE working in the aerospace industry</h3>
 
-- 🌱 I’m currently learning **Monitoring, more golang and more automation**
+- 🌱 I’m currently learning **Pulumi and GitOPS**
 
 - 💬 Ask me about **Automation or how cool the space industry is**
 
