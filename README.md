@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Franky</h1>
-<h3 align="center">An SRE working in the aerospace industry</h3>
+<h3 align="center">An SRE working at Oracle Healthcare and AI</h3>
 
 - My preferred monitoring tools are:
   - Grafana
