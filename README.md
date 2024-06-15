@@ -16,6 +16,8 @@
   - Kubernetes
   - Docker containers and images
   - Calico for the CNI
+- Keyboard: Sofelkeyboard with holy panda switches
+- Mouse: Logitech MX master 3S
   
 I always try to have a git centric workflow aka GitOPS 
 
