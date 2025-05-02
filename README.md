@@ -20,6 +20,7 @@
   - Docker containers and images
   - Calico for the CNI
   - NixOS
+  - Nix flakes
 - Main code editor: neovim
 - Current colorscheme: kanagawa-dragon
 - Keyboard: Sofelkeyboard with holy panda switches
