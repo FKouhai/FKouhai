@@ -7,18 +7,20 @@
   - Loki
   - Signoz
   - OTEL
+  - Hubble
 - For IaC and Configuration Management I use:
   - Terraform
   - Nix
   - Ansible
 - CI/CD:
   - GitHub actions
+  - Gitea actions
   - Gitlab CI/CD
   - Jenkins
 - For underlying infrastructure I use:
   - Kubernetes
   - Docker containers and images
-  - Calico for the CNI
+  - Cilium for the CNI
   - NixOS
   - Nix flakes
 - Main code editor: neovim
