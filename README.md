@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Franky</h1>
 <h3 align="center">An SRE working at Oracle Healthcare and AI</h3>
 
-- My preferred monitoring tools are:
+- My preferred observability tools are:
   - Grafana
   - Prometheus
   - Loki
   - Signoz
+  - OTEL
 - For IaC and Configuration Management I use:
   - Terraform
+  - Nix
   - Ansible
 - CI/CD:
   - GitHub actions
@@ -17,6 +19,7 @@
   - Kubernetes
   - Docker containers and images
   - Calico for the CNI
+  - NixOS
 - Keyboard: Sofelkeyboard with holy panda switches
 - Mouse: Logitech MX master 3S
   
