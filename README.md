@@ -25,7 +25,7 @@
   - Nix flakes
 - Main code editor: neovim
 - Current colorscheme: kanagawa-dragon
-- Keyboard: Sofelkeyboard with holy panda switches
+- Keyboard: WK Kinesis (based on the ergo-s-1) with HMX ice lotus switches
 - Mouse: Logitech MX master 3S
   
 I always try to have a git centric workflow aka GitOPS and I'm very passionate about nix 
